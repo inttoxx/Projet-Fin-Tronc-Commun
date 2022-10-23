@@ -79,3 +79,5 @@ npm run build
 
 ### And... don't hesitate to stop and restart sometimes your front server to flush his cache 😅 🐛
 # Projet-Fin-Tronc-Commun
+
+Dans ce prpjet j'avais la responsabilité de coder l'api et le back pour notre site. Les delais étant court j'ai cependant rapidement pris la position de lead développeur de mon groupe afin d'aider tout le monde et faire en sorte que nous reussissions a rendre un quelquechose de correcte.
